@@ -29,11 +29,12 @@ const Contact = () => {
   <h1 className="text-white text-lg font-semibold">Want to stay in touch? Just mail me!</h1>
 
   <a
-    href="mailto:chitareavinash6@gmail.com?subject=Let's Connect&body=Hi Avinash,"
-    className="inline-block bg-tertiary text-white font-bold py-2 px-5 rounded-xl shadow-md hover:bg-tertiary/90 transition"
-  >
-    Click to Mail
-  </a>
+  href="mailto:chitareavinash6@gmail.com?subject=Let's%20Connect&body=Hi%20Avinash,"
+  className="inline-block bg-tertiary text-white font-bold py-2 px-5 rounded-xl shadow-md hover:bg-tertiary/90 transition"
+>
+  Click to Mail
+</a>
+
 </div>
 
       </motion.div>
