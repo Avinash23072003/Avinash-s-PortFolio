@@ -185,7 +185,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Avinash optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Bhagesh Bansode",
     designation: "GET",
     company: "Johnsan Controls",
